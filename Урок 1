@@ -1,0 +1,3 @@
+StrokaData = input("Введите дату: ")
+StrokaZadahi = input("Введите задачу: ")
+print(StrokaData, StrokaZadahi)
